@@ -4,3 +4,8 @@
 
 Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
+
+## Problem 2: C. Simple Calculator
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
