@@ -14,3 +14,8 @@ https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
 
 Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H
+
+## Problem 4: E. Max
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
