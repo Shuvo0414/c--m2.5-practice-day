@@ -9,3 +9,8 @@ https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
 
 Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C
+
+## Problem 3: H. Sorting
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H
