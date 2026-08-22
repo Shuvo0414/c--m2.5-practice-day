@@ -19,3 +19,8 @@ https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H
 
 Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E
+
+## Problem 5: K. Max and Min
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
